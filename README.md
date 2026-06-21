@@ -1,18 +1,19 @@
 # Customer Segmentation and Churn Prediction
 
-## Project Overview
-This machine learning project focuses on customer segmentation and churn prediction to help businesses identify customer groups and predict potential customer attrition.
+## Overview
+Developed an end-to-end machine learning pipeline for telecom customer churn prediction and behavioral segmentation.
 
-## Key Features
+## Features
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Customer Segmentation
-- Churn Prediction
-- Feature Engineering
-- Data Visualization
-- Model Evaluation
+- Random Forest Churn Prediction
+- Class Imbalance Handling
+- Hyperparameter Tuning
+- Cross Validation
+- ROC-AUC Evaluation
+- K-Means Customer Segmentation
 
-## Technologies Used
+## Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -20,26 +21,14 @@ This machine learning project focuses on customer segmentation and churn predict
 - Matplotlib
 - Seaborn
 
-## Machine Learning Workflow
-1. Data Collection
-2. Data Cleaning
-3. Feature Engineering
-4. Customer Segmentation
-5. Churn Prediction
-6. Model Evaluation
-7. Business Insights Generation
+## Models Used
+### Churn Prediction
+- Random Forest Classifier
+
+### Customer Segmentation
+- K-Means Clustering
 
 ## Business Impact
-The project helps businesses:
-- Identify high-value customer segments
-- Detect customers likely to churn
-- Improve customer retention strategies
-- Support data-driven decision making
-
-## Repository Structure
-
-customer_segmentation_churn_prediction.py
-
-README.md
-
-LICENSE
+- Identified customers likely to churn
+- Segmented customers into actionable groups
+- Generated insights for customer retention strategies
