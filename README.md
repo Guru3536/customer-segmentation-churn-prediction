@@ -32,3 +32,17 @@ Developed an end-to-end machine learning pipeline for telecom customer churn pre
 - Identified customers likely to churn
 - Segmented customers into actionable groups
 - Generated insights for customer retention strategies
+
+## Visualizations
+
+### Customer Segmentation
+
+![Customer Segmentation](images/customer_cluster.jpeg)
+
+### Churn Distribution
+
+![Churn Distribution](images/churn_distribution.jpeg)
+
+### Elbow Method
+
+![Elbow Method](images/elbow_method.jpeg)
